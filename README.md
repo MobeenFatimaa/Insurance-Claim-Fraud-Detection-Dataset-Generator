@@ -35,13 +35,13 @@ Insurance-Claim-Fraud-Detection-Dataset/
 │   ├── generate_dataset.py                # Main synthetic generator (Pandas + Faker)
 │   └── validate_dataset.py                # Automated integrity & distribution tests
 │
-├── docs/
-│   ├── README.md                          # Repository Documentation
+├── docs/                        
 │   └── DATA_DICTIONARY.md                 # Complete schema dictionary
 │
 ├── .gitignore                             # Git ignore configuration
 ├── LICENSE                                # Apache License 2.0
 └── requirements.txt                       # Dependencies
+├── README.md                              # Documentation
 ```
 
 ## Fraud Logic & Scoring Engine
