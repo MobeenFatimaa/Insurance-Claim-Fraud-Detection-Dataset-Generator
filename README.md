@@ -1,12 +1,7 @@
 # Insurance Claim Fraud Detection Dataset Generator & Framework
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Dataset Status](https://img.shields.io/badge/Dataset-100k%20Rows%20%7C%2062%20Cols-success.svg)](#-dataset-overview)
-[![Fraud Ratio](https://img.shields.io/badge/Fraud%20Ratio-20.04%25-red.svg)](#-fraud-logic--scoring-engine)
-
 A complete, production-ready framework for generating and validating a realistic, high-dimensional **Insurance Claim Fraud Detection Dataset** (100,000 records, 62 columns).
-
+### Kaggle Dataset: https://www.kaggle.com/datasets/mobeenfatimah/insurance-claim-fraud-detection-dataset
 This project bridges **Finance, Insurance Analytics, Machine Learning Classification, Anomaly Detection, and Explainable AI (XAI)** by simulating complex, non-linear fraud indicators and realistic business logic.
 
 ---
